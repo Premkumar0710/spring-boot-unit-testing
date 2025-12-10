@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Gradle (if ever used)
+build/
+
+# Test reports
+**/surefire-reports/
+**/jacoco.exec
+**/*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
